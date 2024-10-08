@@ -63,7 +63,7 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [your name]
+# [zhangdajiang]
 
 [Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
 
@@ -71,7 +71,7 @@ timezone: Asia/Shanghai
 
 [Yes 100% or Maybe xx%]
 
----
+---yes
 
 **共学节奏参考：**
 
@@ -104,8 +104,15 @@ timezone: Asia/Shanghai
 
 ### 2024.10.08
 
+-Dictation: What time do you have?
+            I have 5 o'clock.
+-Fix: 7Hs : he her him his hid has have
 
+-Dictation: There are three things I never told people : religion 
+-Fix : There are three things I have  learned never to discuss with people : religion , politics and the  great Pumpkin
 
+-Dictation: Never let Somebody to tell you that you can't do something !
+-Fix Don't ever let somebody  tell you you can't do something
 ### 2024.10.09
 
 
