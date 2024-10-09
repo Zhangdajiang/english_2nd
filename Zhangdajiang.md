@@ -107,9 +107,14 @@ timezone: Asia/Shanghai
 
 
 ### 2024.10.09
-
-
-
+-Dictation: I have come here  to for to choose      all of 
+-Fix:I have come here to chew bubblegun and kick ass and I'm all out of bubblegun !
+6
+-Dictation: Seek a life just moment
+-Fix: The secret of life is just to live every moment.
+7
+- Dictation :    cheat   bank billions
+- Fix: Another rogue traders has cost a bank billions
 ### 2024.10.10
 
 
